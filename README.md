@@ -1,4 +1,5 @@
-# L2-Yield-Marketplace (Forked the project form our APWine git for the ECMP program purpos in order not to make the project public yet as it is not finished)
+# L2-Yield-Marketplace 
+(Forked the project form our APWine git for the ECMP program purpose in order not to make the project public yet as it is not finished)
 
 ## Context
 The choice of making APWine v1 rely on AMM limited technologicaly the use and better adoption of the protocol. It was decided to switch to an Order book approach as the emergence of a new technology: Starknet, a validity rollup, makes realizable the implementation of what would be such a costly structure on the Ethereum network.

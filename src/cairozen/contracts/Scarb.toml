@@ -1,0 +1,11 @@
+[package]
+name = "contracts"
+version = "0.1.0"
+
+[dependencies]
+starknet = ">=0.11.2"
+
+[cairo]
+sierra-replace-ids = true
+
+[[target.starknet-contract]]
